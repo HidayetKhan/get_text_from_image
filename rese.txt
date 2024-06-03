@@ -1,0 +1,38 @@
+res.txt.txt:
+Codelgniter Basic BotDetect CAPTCHA Example
+
+‘Submit
+
+
+res.txt.txt:
+Security check
+
+= Code
+
+SEN ©
+
+
+
+res.txt.txt:
+PRNU
+
+
+1.png:
+Codelgniter Basic BotDetect CAPTCHA Example
+
+‘Submit
+
+
+2.png:
+Security check
+
+= Code
+
+SEN ©
+
+
+
+3.png:
+PRNU
+
+
